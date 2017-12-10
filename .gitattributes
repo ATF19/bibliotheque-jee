@@ -1,2 +1,2 @@
-web/js/* linguist-vendored
-web/admin/assets/* linguist-vendored
+web/js/* linguist-vendored=false
+web/admin/assets/* linguist-vendored=false

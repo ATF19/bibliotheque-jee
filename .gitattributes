@@ -2,3 +2,4 @@ web/js/* linguist-vendored=false
 web/admin/assets/* linguist-vendored=false
 build/web/js* linguist-vendored=false
 build/web/admin/assets/* linguist-vendored=false
+src/* linguist-vendored
